@@ -1,4 +1,4 @@
-# vue-fundamentals
+# Harry's Gym
 
 > A Vue.js project
 
