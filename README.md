@@ -1,4 +1,4 @@
-# Harry's Gym
+# Grocery Info
 
 > A Vue.js project
 
